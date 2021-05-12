@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{5BB56181-2888-43D7-AD1B-03CAC57EA7EB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="pocblobStorage/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="pocblobStorage/Services/BlobStorageService.cs" Line="10" Column="35" />
+      <File FileName="pocblobStorage/Controllers/HomeController.cs" Line="24" Column="56" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="pocblobStorage" expanded="True">
+            <Node name="pocblobStorage" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>configuration</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/aliyounes/Projects/pocblobStorage/pocblobStorage/Controllers/VideoController.cs" relfile="pocblobStorage/Controllers/VideoController.cs" line="29" column="1" />
+      <Breakpoint file="/Users/aliyounes/Projects/pocblobStorage/pocblobStorage/Controllers/VideoController.cs" relfile="pocblobStorage/Controllers/VideoController.cs" line="33" column="1" />
+      <Breakpoint file="/Users/aliyounes/Projects/pocblobStorage/pocblobStorage/Controllers/VideoController.cs" relfile="pocblobStorage/Controllers/VideoController.cs" line="38" column="1" />
+      <Breakpoint file="/Users/aliyounes/Projects/pocblobStorage/pocblobStorage/Controllers/VideoController.cs" relfile="pocblobStorage/Controllers/VideoController.cs" line="46" column="1" />
+      <Breakpoint file="/Users/aliyounes/Projects/pocblobStorage/pocblobStorage/Controllers/VideoController.cs" relfile="pocblobStorage/Controllers/VideoController.cs" line="44" column="1" />
+      <Breakpoint file="/Users/aliyounes/Projects/pocblobStorage/pocblobStorage/Controllers/HomeController.cs" relfile="pocblobStorage/Controllers/HomeController.cs" line="130" column="1" />
+      <Breakpoint file="/Users/aliyounes/Projects/pocblobStorage/pocblobStorage/Controllers/HomeController.cs" relfile="pocblobStorage/Controllers/HomeController.cs" line="123" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.pocblobStorage PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

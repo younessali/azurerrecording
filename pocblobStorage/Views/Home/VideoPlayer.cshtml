@@ -1,0 +1,9 @@
+﻿@{
+    ViewData["Title"] = "Video Player";
+    var videoUrl = (string)ViewData["Video"];
+}
+
+
+<video width="576" height="320" controls id="video">
+    <source src=@videoUrl type="video/mp4" />
+</video>

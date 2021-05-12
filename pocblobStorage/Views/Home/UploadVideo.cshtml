@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Upload Video";
+}
+<form method="post" enctype="multipart/form-data" asp-controller="Home" asp-action="Post">
+    <div id="uploadSection">
+        <label>Select files for upload</label>
+        <input type="file" id="fileSelect" name="fileSelect" multiple />
+    </div>
+
+    <div>
+        <input type="submit" id="thisbutton" value="Upload" />
+    </div>
+
+</form>
